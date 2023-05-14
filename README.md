@@ -6,7 +6,17 @@ I have a grid of 30 buttons (5x6) and 3 potentiometers(2 knobs, 1 slider) fitted
 
 # Early May (2022) Update
 The semester is over and I have time to work!
-The main button grid plays MIDI notes and the black buttons change the grid to play a different set of notes! If I figure out how to post a video here I will
+The main button grid plays MIDI notes and the black buttons change the grid to play a different set of notes!
+
+I believe the KiCad files to be on  an old SSD, so for now here are some old photos of the screen(lol) of the schematic and layout:
+
+Here is the Schematic:
+![IMG_4496](https://github.com/jlb2637/MIDI-Project-Code/assets/47393028/3dc260b8-ef8c-4245-81af-16638e1edcb8)
+I'm using<blank> shift registers
+  
+Here is the Layout:
+![IMG_4497](https://github.com/jlb2637/MIDI-Project-Code/assets/47393028/18a8ef66-7f48-44cf-8812-6dc06b6a7507)
+  
 
 Bugs:
   -Changing main button grids will keep playing all previous notes (is this a bug even?)
