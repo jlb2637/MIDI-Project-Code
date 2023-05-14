@@ -11,11 +11,11 @@ The main button grid plays MIDI notes and the black buttons change the grid to p
 I believe the KiCad files to be on  an old SSD, so for now here are some old photos of the screen(lol) of the schematic and layout:
 
 Here is the Schematic:
-![IMG_4496](https://github.com/jlb2637/MIDI-Project-Code/assets/47393028/3dc260b8-ef8c-4245-81af-16638e1edcb8)
+![IMG_4496](https://github.com/jlb2637/MIDI-Project-Code/assets/47393028/3c6a9140-a08c-40da-90bb-71652ff9517d)
 I'm using TI SN74HC165 Parallel in Serial out shift registers with 10k Ohm resistors on each input, as well as 0.1uf polarized decoupling capacitors between the VDD and GND of each register to filter out any potential voltage spikes.
   
 Here is the Layout:
-![IMG_4497](https://github.com/jlb2637/MIDI-Project-Code/assets/47393028/18a8ef66-7f48-44cf-8812-6dc06b6a7507)
+![IMG_4497](https://github.com/jlb2637/MIDI-Project-Code/assets/47393028/f9208187-e540-4cf6-9d01-83b1f0a04513)
   
 
 Bugs:
