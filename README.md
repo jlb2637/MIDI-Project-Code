@@ -15,6 +15,7 @@ I'm using TI SN74HC165 Parallel in Serial out shift registers with 10k Ohm resis
   
 Here is the Layout:
 ![IMG_4497](https://github.com/jlb2637/MIDI-Project-Code/assets/47393028/f9208187-e540-4cf6-9d01-83b1f0a04513)
+As I did not have access to any SMD soldering equipment, I needed to use THT components for everything, hence why the resistors take up so much space!
   
 I added a fun little startup LED sequence as shown in the video below:
 https://github.com/jlb2637/MIDI-Project-Code/assets/47393028/1f2d1970-3f24-4edf-a286-1d6c569cf97a
@@ -22,3 +23,4 @@ https://github.com/jlb2637/MIDI-Project-Code/assets/47393028/1f2d1970-3f24-4edf-
 And here is (almost) the full device hooked up to a DAW (Reaper in this case) being used to play a virtual instrument!
 https://github.com/jlb2637/MIDI-Project-Code/assets/47393028/b4a03d49-669e-4b8d-8d72-53b0125e0704
 
+At this point in time, all of the components have been wired up and installed, I have not had the time to implement everything in software just yet. I'm really leaning towards creating a new version that integrates all of the electronics onto a single custom PCB rather than finishing up the software on this design. 
